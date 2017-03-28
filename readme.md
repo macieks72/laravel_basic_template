@@ -1,1 +1,1 @@
-readmi.md is comming soon.
+Zadanie rekrutacyjne do pracy w host.pl
